@@ -1,0 +1,7 @@
+{
+  "name": "VarshGpt 2.0",
+  "description": "An AI chatbot tailored for exam prep, coding help, and productivity. It features specialized modes for aptitude, coding, and document analysis to provide focused and expert assistance.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
