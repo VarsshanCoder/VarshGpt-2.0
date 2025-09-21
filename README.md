@@ -5,17 +5,17 @@
 
 **VarshGpt 2.0** is a next-generation, browser-based AI chat application that brings the power of multiple leading AI models into a single, intuitive interface. Designed for productivity, research, and creativity, it features specialized modes for a wide range of tasks—from coding and document analysis to image generation and autonomous task execution.
 
----
+
 
 ### ▶️ Live Demo & Video
 
 **[Placeholder for Live Demo Link]**
 
+
+
 Click the thumbnail below to watch a video demonstration of VarshGpt 2.0 in action.
 
-[![VarshGpt 2.0 Video Demo](https://placehold.co/800x450/0f172a/38bdf8?text=Click%20to%20Play%20Demo)](https://github.com/VarsshanCoder/VarshGpt-2.0/blob/main/Demo/Screen%20Recording%202025-09-21%20193134.mp4)
-
----
+[![VarshGpt 2.0 Video Demo](https://placehold.co/800x450/0f172a/38bdf8?text=Click%20to%20Play%20Demo)](https://youtu.be/JVSMGj52h8U)
 
 ## ✨ Features at a Glance
 
