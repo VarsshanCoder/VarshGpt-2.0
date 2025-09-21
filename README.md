@@ -13,7 +13,7 @@
 
 Click the thumbnail below to watch a video demonstration of VarshGpt 2.0 in action.
 
-[![VarshGpt 2.0 Video Demo](https://placehold.co/800x450/0f172a/38bdf8?text=Click%20to%20Play%20Demo)](https://www.example.com/your-video-link-here "VarshGpt 2.0 Demo Video")
+[![VarshGpt 2.0 Video Demo](https://placehold.co/800x450/0f172a/38bdf8?text=Click%20to%20Play%20Demo)](https://github.com/VarsshanCoder/VarshGpt-2.0/blob/main/Demo/Screen%20Recording%202025-09-21%20193134.mp4)
 
 ---
 
@@ -53,9 +53,9 @@ VarshGpt 2.0 is packed with a wide array of advanced features, putting it on par
 
 ## 📸 Screenshots
 
-| Light Mode Interface | Dark Mode with Code | Multi-File Upload |
-| :---: | :---: | :---: |
-| ![Light Mode Screenshot](https://placehold.co/600x400/f8fafc/0f172a?text=Light%20Mode) | ![Dark Mode Screenshot](https://placehold.co/600x400/0f172a/38bdf8?text=Dark%20Mode%20%2B%20Code) | ![File Upload Screenshot](https://placehold.co/600x400/0f172a/94a3b8?text=Multi-File%20Upload) |
+| Light Mode Interface | Dark Mode with Code |
+| :---: | :---: |
+| ![Light Mode Screenshot](https://github.com/VarsshanCoder/VarshGpt-2.0/blob/main/Demo/Screenshot%202025-09-21%20193300.png) | ![Dark Mode Screenshot](https://github.com/VarsshanCoder/VarshGpt-2.0/blob/main/Demo/Screenshot%202025-09-21%20193225.png)
 
 ---
 
