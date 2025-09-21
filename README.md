@@ -9,8 +9,6 @@
 
 ### ▶️ Live Demo & Video
 
-**[Placeholder for Live Demo Link]**
-
 
 
 Click the thumbnail below to watch a video demonstration of VarshGpt 2.0 in action.
